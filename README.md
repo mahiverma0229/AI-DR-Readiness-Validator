@@ -380,15 +380,11 @@ Uptime Since Launch: 99.95%
 
 Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👤 Author
 
 **Mahi Verma**
-- GitHub: [@mahiverma](https://github.com/mahiverma)
-- LinkedIn: [Mahi Verma](https://linkedin.com/in/mahiverma)
+- GitHub: [@mahiverma](https://github.com/mahiverma0229)
+- LinkedIn: [Mahi Verma](www.linkedin.com/in/mahii9044)
 
 ## ⭐ Show Your Support
 
