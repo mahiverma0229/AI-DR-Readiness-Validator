@@ -368,13 +368,6 @@ Uptime Since Launch: 99.95%
 ![Dashboard](docs/screenshots/dashboard.png)
 *Real-time DR readiness monitoring with component health scores*
 
-### Component Details
-![Components](docs/screenshots/components.png)
-*Detailed metrics for each infrastructure component*
-
-### Alerts & Recommendations
-![Alerts](docs/screenshots/alerts.png)
-*Intelligent alerting with actionable recommendations*
 
 ## 🤝 Contributing
 
